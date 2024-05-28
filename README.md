@@ -1,7 +1,9 @@
 # Signal_Slots_Cpp
 A simple signal-slot mechanism is implemented（ONLY MinGW！）
 
+2024.4.28
 
+Optimized with C17's std::tuple and std::apply, MSVC and MinGW are now available.
 
 ## Example
 
